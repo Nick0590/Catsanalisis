@@ -10,14 +10,14 @@ Diversidad de variables: La variedad de variables en el conjunto de datos permit
 
 Aplicabilidad práctica: Los insights obtenidos pueden ser útiles para mejorar el bienestar de los gatos domésticos y proporcionar recomendaciones a los dueños de mascotas sobre la mejor manera de cuidar a sus animales.
 
-Oportunidades para la visualización de Datos: Las variables presentes en el conjunto de datos permiten la creación de visualizaciones atractivas y significativas, lo que es crucial en la presentación y comunicación de los resultados del análisis.
+Oportunidades para la visualización de datos: Las variables presentes en el conjunto de datos permiten la creación de visualizaciones atractivas y significativas, lo que es crucial en la presentación y comunicación de los resultados del análisis.
 
 Justificación de las preguntas de análisis:
 
 Relación entre la edad y la cantidad de presas:
 
 Relevancia: Esta pregunta busca explorar si la edad de un gato influye en su tendencia a cazar, lo cual es importante para entender cómo cambian los comportamientos de caza a lo largo de la vida de un gato.
-Beneficios para la Investigación y el Cuidado de Mascotas: Comprender esta relación puede ayudar a identificar cambios en las necesidades y comportamientos de los gatos a medida que envejecen, lo cual es valioso para los dueños de mascotas y los profesionales veterinarios.
+Beneficios para la investigación y el cuidado de mascotas: Comprender esta relación puede ayudar a identificar cambios en las necesidades y comportamientos de los gatos a medida que envejecen, lo cual es valioso para los dueños de mascotas y los profesionales veterinarios.
 
 Se determinó que existe una relación inversa, por lo que a mayor edad un gato caza menos presas
 
