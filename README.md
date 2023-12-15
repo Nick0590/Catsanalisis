@@ -12,6 +12,7 @@ Aplicabilidad práctica: Los insights obtenidos pueden ser útiles para mejorar 
 
 Oportunidades para la visualización de datos: Las variables presentes en el conjunto de datos permiten la creación de visualizaciones atractivas y significativas, lo que es crucial en la presentación y comunicación de los resultados del análisis.
 
+
 Justificación de las preguntas de análisis:
 
 Relación entre la edad y la cantidad de presas:
@@ -22,9 +23,11 @@ Beneficios para la investigación y el cuidado de mascotas: Comprender esta rela
 Se determinó que existe una relación inversa, por lo que a mayor edad un gato caza menos presas
 
 
+
 Relación entre edad y condición reproductiva:
 
 Importancia biológica y social: Esta pregunta se centra en cómo varía la condición reproductiva de los gatos con la edad, lo cual es crucial para entender las dinámicas poblacionales y de salud reproductiva de los gatos domésticos.
 Aplicaciones prácticas: Los resultados pueden proporcionar información útil para los programas de manejo de la población de gatos, así como para los dueños de mascotas en lo que respecta a la salud reproductiva y el cuidado de sus gatos a diferentes edades.
 
 En resumen hay gatos castrados que llegan a una edad superior, luego los gatos esterilizados y por último se encuentran los gatos sin castrar ni esterilizar.
+
